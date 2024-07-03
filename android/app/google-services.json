@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990982026517",
+    "project_id": "cvrcak-3b8ba",
+    "storage_bucket": "cvrcak-3b8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990982026517:android:7aea2bb535c05e8ede251c",
+        "android_client_info": {
+          "package_name": "com.example.cvrcak2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8SvF0TzMik_MYvcMRqIG93QkCl2Yah4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

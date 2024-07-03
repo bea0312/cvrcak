@@ -1,0 +1,16 @@
+com.example.cvrcak2.app-jetified-play-services-basement-18.3.0-0 C:\Users\Isabelle\.gradle\caches\transforms-3\252a2726a79b37c5be411495afc5a7f7\transformed\jetified-play-services-basement-18.3.0\res
+com.example.cvrcak2.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Isabelle\.gradle\caches\transforms-3\43f0f7a8da99ce7f3d06f54e70644320\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.cvrcak2.app-core-1.6.0-2 C:\Users\Isabelle\.gradle\caches\transforms-3\57d2891dda6b6f5971418432f20e3ce6\transformed\core-1.6.0\res
+com.example.cvrcak2.app-jetified-window-1.0.0-beta04-3 C:\Users\Isabelle\.gradle\caches\transforms-3\9705774bd5874e3ca31abbb9def0e54f\transformed\jetified-window-1.0.0-beta04\res
+com.example.cvrcak2.app-jetified-firebase-common-21.0.0-4 C:\Users\Isabelle\.gradle\caches\transforms-3\aac60ca45897a0868944c0bb9c068355\transformed\jetified-firebase-common-21.0.0\res
+com.example.cvrcak2.app-jetified-annotation-experimental-1.1.0-5 C:\Users\Isabelle\.gradle\caches\transforms-3\e8534f4657b5f0d33d7e8bf7dc6542f2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.cvrcak2.app-RES-6 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\RES\processDebugGoogleServices
+com.example.cvrcak2.app-pngs-7 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\generated\res\pngs\debug
+com.example.cvrcak2.app-resValues-8 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\generated\res\resValues\debug
+com.example.cvrcak2.app-rs-9 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\generated\res\rs\debug
+com.example.cvrcak2.app-mergeDebugResources-10 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.cvrcak2.app-mergeDebugResources-11 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.cvrcak2.app-merged_res-12 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\build\intermediates\merged_res\debug
+com.example.cvrcak2.app-debug-13 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\src\debug\res
+com.example.cvrcak2.app-main-14 C:\Users\Isabelle\.vscode\flutter\cvrcak2\android\app\src\main\res
+com.example.cvrcak2.app-packaged_res-15 C:\Users\Isabelle\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.1\android\build\intermediates\packaged_res\debug
